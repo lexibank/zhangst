@@ -1,0 +1,110 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Number,Subgrouping,GroupID,SubgroupingName,SubGroup
+bengni,Bengni,,,,,,,,1,1.1.1.1,73,Western Tani,Tani-Deng
+bokarlhoba,Bokar_Lhoba,,,,,,,,2,1.1.1.1,73,Western Tani,Tani-Deng
+apatani,Apatani,,,,,,,,3,1.1.1.1,73,Western Tani,Tani-Deng
+idu,Idu,,,,,,,,4,1.1.2,6,Deng,Tani-Deng
+darangtaraon,Darang_Taraon,,,,,,,,5,1.1.2,6,Deng,Tani-Deng
+thado,Thado,,,,,,,,6,1.2.1.1,68,Northern Chin,Kuki-Chin
+tiddim,Tiddim,,,,,,,,7,1.2.1.1,68,Northern Chin,Kuki-Chin
+khumi,Khumi,,,,,,,,8,1.2.1.2,69,Southern Plains Chin,Kuki-Chin
+matu,Matu,,,,,,,,9,1.2.1.2,69,Southern Plains Chin,Kuki-Chin
+ngmuun,Ngmüün,,,,,,,,10,1.2.1.2,69,Southern Plains Chin,Kuki-Chin
+daai,Daai,,,,,,,,11,1.2.1.2,69,Southern Plains Chin,Kuki-Chin
+sangtam,Sangtam,,,,,,,,12,1.3.1,63,Central Naga (Ao Group),Naga
+aomongsenlongchang,Ao_Mongsen_Longchang,,,,,,,,13,1.3.1,63,Central Naga (Ao Group),Naga
+aochungli,Ao_Chungli,,,,,,,,14,1.3.1,63,Central Naga (Ao Group),Naga
+lothanaga,Lotha_Naga,,,,,,,,15,1.3.1,63,Central Naga (Ao Group),Naga
+angamikohima,Angami_Kohima,,,,,,,,16,1.3.2,65,Angami-Pochuri Group,Naga
+semasumi,Sema_Sumi,,,,,,,,17,1.3.2,65,Angami-Pochuri Group,Naga
+liangmei,Liangmei,,,,,,,,18,1.3.3,64,Zeme Group,Naga
+zeme,Zeme,,,,,,,,19,1.3.3,64,Zeme Group,Naga
+rongmeinruanghmei,Rongmei_Nruanghmei,,,,,,,,20,1.3.3,64,Zeme Group,Naga
+tangkhul,Tangkhul,,,,,,,,21,1.3.4,66,Tangkhulic,Naga
+dimasa,Dimasa,,,,,,,,22,1.7.1.1,80,Bodo,Bodo-Garo-Koch
+bodo,Bodo,,,,,,,,23,1.7.1.1,80,Bodo,Bodo-Garo-Koch
+garobangladesh,Garo_Bangladesh,,,,,,,,24,1.7.1.2,81,Garo,Bodo-Garo-Koch
+atong,Atong,,,,,,,,25,1.7.1.3,82,Koch,Bodo-Garo-Koch
+konyak,Konyak,,,,,,,,26,1.7.2.2,85,Konyak-Chang,Bodo-Garo-Koch
+phom,Phom,,,,,,,,27,1.7.2.2,85,Konyak-Chang,Bodo-Garo-Koch
+chang,Chang,,,,,,,,28,1.7.2.2,85,Konyak-Chang,Bodo-Garo-Koch
+jingpho,Jingpho,,,,,,,,29,1.7.3.1,37,Jingpho,Bodo-Garo-Koch
+sak,Sak,,,,,,,,30,1.7.3.2,40,Asakian,Bodo-Garo-Koch
+pattanimanchati,Pattani_Manchati,,,,,,,,31,2.1.1,20,Western Himalayish,Himalayish
+kanauri,Kanauri,,,,,,,,32,2.1.1,20,Western Himalayish,Himalayish
+cuonamenba,Cuona_Menba,,,,,,,,33,2.1.2,22,Bodic,Himalayish
+tshonamama,Tshona_Mama,,,,,,,,34,2.1.2,22,Bodic,Himalayish
+tibetanjirel,Tibetan_Jirel,,,,,,,,35,2.1.2.1,24,Tibetan,Himalayish
+tibetanamdozeku,Tibetan_Amdo_Zeku,,,,,,,,36,2.1.2.1,24,Tibetan,Himalayish
+tibetanamdoblabrang,Tibetan_Amdo_Bla_brang,,,,,,,,37,2.1.2.1,24,Tibetan,Himalayish
+tibetanlhasa,Tibetan_Lhasa,,,,,,,,38,2.1.2.1,24,Tibetan,Himalayish
+tibetanbatang,Tibetan_Batang,,,,,,,,39,2.1.2.1,24,Tibetan,Himalayish
+tibetanxiahe,Tibetan_Xiahe,,,,,,,,40,2.1.2.1,24,Tibetan,Himalayish
+tibetankhamsdege,Tibetan_Khams_Dege,,,,,,,,41,2.1.2.1,24,Tibetan,Himalayish
+thakalitukche,Thakali_Tukche,,,,,,,,42,2.1.4,23,Tamangish,Himalayish
+gurungghachok,Gurung_Ghachok,,,,,,,,43,2.1.4,23,Tamangish,Himalayish
+tamangsahu,Tamang_Sahu,,,,,,,,44,2.1.4,23,Tamangish,Himalayish
+manangprakaa,Manang_Prakaa,,,,,,,,45,2.1.4,23,Tamangish,Himalayish
+mananggyaru,Manang_Gyaru,,,,,,,,46,2.1.4,23,Tamangish,Himalayish
+limbu,Limbu,,,,,,,,47,2.3.1,31,Eastern Kiranti,Himalayish
+khaling,Khaling,,,,,,,,48,2.3.3,77,Central Kiranti,Himalayish
+hayu,Hayu,,,,,,,,49,2.3.4,30,Western Kiranti,Himalayish
+thulung,Thulung,,,,,,,,50,2.3.4,30,Western Kiranti,Himalayish
+sunwar,Sunwar,,,,,,,,51,2.3.4,30,Western Kiranti,Himalayish
+chepang,Chepang,,,,,,,,52,2.4,28,Kham-Magar-Chepang,Himalayish
+magar,Magar,,,,,,,,53,2.4,28,Kham-Magar-Chepang,Himalayish
+pumiqinghua,Pumi_Qinghua,,,,,,,,54,3.2,34,Qiangic,Qiangic-Rgyalrongic
+muyaminyak,Muya_Minyak,,,,,,,,55,3.2,34,Qiangic,Qiangic-Rgyalrongic
+namuyi,Namuyi,,,,,,,,56,3.2,34,Qiangic,Qiangic-Rgyalrongic
+ersu,Ersu,,,,,,,,57,3.2,34,Qiangic,Qiangic-Rgyalrongic
+xumi,Xumi,,,,,,,,58,3.2,34,Qiangic,Qiangic-Rgyalrongic
+pumitaoba,Pumi_Taoba,,,,,,,,59,3.2,34,Qiangic,Qiangic-Rgyalrongic
+lyuzu,Lyuzu,,,,,,,,60,3.2,34,Qiangic,Qiangic-Rgyalrongic
+qianglongxi,Qiang_Longxi,,,,,,,,61,3.2,34,Qiangic,Qiangic-Rgyalrongic
+queyuyajiangzhaba,Queyu_Yajiang_Zhaba,,,,,,,,62,3.2,34,Qiangic,Qiangic-Rgyalrongic
+qiangmawo,Qiang_Mawo,,,,,,,,63,3.2,34,Qiangic,Qiangic-Rgyalrongic
+daofu,Daofu,,,,,,,,64,3.3,35,rGyalrongic,Qiangic-Rgyalrongic
+ergongdanba,Ergong_Danba,,,,,,,,65,3.3,35,rGyalrongic,Qiangic-Rgyalrongic
+caodeng,Caodeng,,,,,,,,66,3.3.1,78,rGyalrong,Qiangic-Rgyalrongic
+rgyalrongmaerkang,rGyalrong_Maerkang,,,,,,,,67,3.3.1,78,rGyalrong,Qiangic-Rgyalrongic
+trungdulong,Trung_Dulong,,,,,,,,68,4,38,Nungic,Nungic
+trungdulongnujiang,Trung_Dulong_Nujiang,,,,,,,,69,4,38,Nungic,Nungic
+anong,Anong,,,,,,,,70,4,38,Nungic,Nungic
+marma,Marma,,,,,,,,71,6.1.1,44,Burmish,Lolo-Burmese
+burmesespokenrangoon,Burmese_Spoken_Rangoon,,,,,,,,72,6.1.1,44,Burmish,Lolo-Burmese
+achanglongchuan,Achang_Longchuan,,,,,,,,73,6.1.1,44,Burmish,Lolo-Burmese
+achangxiandao,Achang_Xiandao,,,,,,,,74,6.1.1,44,Burmish,Lolo-Burmese
+leqiluxi,Leqi_Luxi,,,,,,,,75,6.1.1,44,Burmish,Lolo-Burmese
+achanglianghe,Achang_Lianghe,,,,,,,,76,6.1.1,44,Burmish,Lolo-Burmese
+bolaluxi,Bola_Luxi,,,,,,,,77,6.1.1,44,Burmish,Lolo-Burmese
+langsuluxi,Langsu_Luxi,,,,,,,,78,6.1.1,44,Burmish,Lolo-Burmese
+achangluxi,Achang_Luxi,,,,,,,,79,6.1.1,44,Burmish,Lolo-Burmese
+atsizaiwa,Atsi_Zaiwa,,,,,,,,80,6.1.1,44,Burmish,Lolo-Burmese
+nusunorthern,Nusu_Northern,,,,,,,,81,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+yinanjian,Yi_Nanjian,,,,,,,,82,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+nususouthern,Nusu_Southern,,,,,,,,83,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+nusucentral,Nusu_Central,,,,,,,,84,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+yimile,Yi_Mile,,,,,,,,85,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+yidafang,Yi_Dafang,,,,,,,,86,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+yiweishan,Yi_Weishan,,,,,,,,87,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+yiwuding,Yi_Wuding,,,,,,,,88,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+yimojiang,Yi_Mojiang,,,,,,,,89,6.1.2.1,46,Northern Loloish,Lolo-Burmese
+yisani,Yi_Sani,,,,,,,,90,6.1.2.2,47,Central Loloish,Lolo-Burmese
+lahulancang,Lahu_Lancang,,,,,,,,91,6.1.2.2,47,Central Loloish,Lolo-Burmese
+lisunorthern,Lisu_Northern,,,,,,,,92,6.1.2.2,47,Central Loloish,Lolo-Burmese
+jinuoyoule,Jinuo_Youle,,,,,,,,93,6.1.2.2,47,Central Loloish,Lolo-Burmese
+lahuyellow,Lahu_Yellow,,,,,,,,94,6.1.2.2,47,Central Loloish,Lolo-Burmese
+lisucentral,Lisu_Central,,,,,,,,95,6.1.2.2,47,Central Loloish,Lolo-Burmese
+hanicaiyuan,Hani_Caiyuan,,,,,,,,96,6.1.2.3,48,Southern Loloish,Lolo-Burmese
+hanimojiang,Hani_Mojiang,,,,,,,,97,6.1.2.3,48,Southern Loloish,Lolo-Burmese
+hanigelanghe,Hani_Gelanghe,,,,,,,,98,6.1.2.3,48,Southern Loloish,Lolo-Burmese
+hanidazhai,Hani_Dazhai,,,,,,,,99,6.1.2.3,48,Southern Loloish,Lolo-Burmese
+mpi,Mpi,,,,,,,,100,6.1.2.3,48,Southern Loloish,Lolo-Burmese
+hanishuikui,Hani_Shuikui,,,,,,,,101,6.1.2.3,48,Southern Loloish,Lolo-Burmese
+haniluchun,Hani_Lüchun,,,,,,,,102,6.1.2.3,48,Southern Loloish,Lolo-Burmese
+naxiyongning,Naxi_Yongning,,,,,,,,103,6.2,43,Naxi,Lolo-Burmese
+naxilijiang,Naxi_Lijiang,,,,,,,,104,6.2,43,Naxi,Lolo-Burmese
+karen,Karen,,,,,,,,105,7,50,Karenic,Karenic
+kayanpekon,Kayan_Pekon,,,,,,,,106,7,50,Karenic,Karenic
+pao,Pa_O,,,,,,,,107,7,50,Karenic,Karenic
+chineseold,Chinese_Old,,,,,,,,108,9.0.1,53,Old Chinese,Sinitic
+chinesemandarin,Chinese_Mandarin,,,,,,,,109,9.0.3,55,Modern Chinese,Sinitic

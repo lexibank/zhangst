@@ -1,0 +1,110 @@
+Number	Name	SubGroup	ID	GroupID	Subgrouping	SubgroupingName
+1	Bengni	Tani-Deng	Bengni	73	1.1.1.1	Western Tani
+2	Bokar_Lhoba	Tani-Deng	Bokar_Lhoba	73	1.1.1.1	Western Tani
+3	Apatani	Tani-Deng	Apatani	73	1.1.1.1	Western Tani
+4	Idu	Tani-Deng	Idu	6	1.1.2	Deng
+5	Darang_Taraon	Tani-Deng	Darang_Taraon	6	1.1.2	Deng
+6	Thado	Kuki-Chin	Thado	68	1.2.1.1	Northern Chin
+7	Tiddim	Kuki-Chin	Tiddim	68	1.2.1.1	Northern Chin
+8	Khumi	Kuki-Chin	Khumi	69	1.2.1.2	Southern Plains Chin
+9	Matu	Kuki-Chin	Matu	69	1.2.1.2	Southern Plains Chin
+10	Ngmüün	Kuki-Chin	Ngmuun	69	1.2.1.2	Southern Plains Chin
+11	Daai	Kuki-Chin	Daai	69	1.2.1.2	Southern Plains Chin
+12	Sangtam	Naga	Sangtam	63	1.3.1	Central Naga (Ao Group)
+13	Ao_Mongsen_Longchang	Naga	Ao_Mongsen_Longchang	63	1.3.1	Central Naga (Ao Group)
+14	Ao_Chungli	Naga	Ao_Chungli	63	1.3.1	Central Naga (Ao Group)
+15	Lotha_Naga	Naga	Lotha_Naga	63	1.3.1	Central Naga (Ao Group)
+16	Angami_Kohima	Naga	Angami_Kohima	65	1.3.2	Angami-Pochuri Group
+17	Sema_Sumi	Naga	Sema_Sumi	65	1.3.2	Angami-Pochuri Group
+18	Liangmei	Naga	Liangmei	64	1.3.3	Zeme Group
+19	Zeme	Naga	Zeme	64	1.3.3	Zeme Group
+20	Rongmei_Nruanghmei	Naga	Rongmei_Nruanghmei	64	1.3.3	Zeme Group
+21	Tangkhul	Naga	Tangkhul	66	1.3.4	Tangkhulic
+22	Dimasa	Bodo-Garo-Koch	Dimasa	80	1.7.1.1	Bodo
+23	Bodo	Bodo-Garo-Koch	Bodo	80	1.7.1.1	Bodo
+24	Garo_Bangladesh	Bodo-Garo-Koch	Garo_Bangladesh	81	1.7.1.2	Garo
+25	Atong	Bodo-Garo-Koch	Atong	82	1.7.1.3	Koch
+26	Konyak	Bodo-Garo-Koch	Konyak	85	1.7.2.2	Konyak-Chang
+27	Phom	Bodo-Garo-Koch	Phom	85	1.7.2.2	Konyak-Chang
+28	Chang	Bodo-Garo-Koch	Chang	85	1.7.2.2	Konyak-Chang
+29	Jingpho	Bodo-Garo-Koch	Jingpho	37	1.7.3.1	Jingpho
+30	Sak	Bodo-Garo-Koch	Sak	40	1.7.3.2	Asakian
+31	Pattani_Manchati	Himalayish	Pattani_Manchati	20	2.1.1	Western Himalayish
+32	Kanauri	Himalayish	Kanauri	20	2.1.1	Western Himalayish
+33	Cuona_Menba	Himalayish	Cuona_Menba	22	2.1.2	Bodic
+34	Tshona_Mama	Himalayish	Tshona_Mama	22	2.1.2	Bodic
+35	Tibetan_Jirel	Himalayish	Tibetan_Jirel	24	2.1.2.1	Tibetan
+36	Tibetan_Amdo_Zeku	Himalayish	Tibetan_Amdo_Zeku	24	2.1.2.1	Tibetan
+37	Tibetan_Amdo_Bla_brang	Himalayish	Tibetan_Amdo_Bla_brang	24	2.1.2.1	Tibetan
+38	Tibetan_Lhasa	Himalayish	Tibetan_Lhasa	24	2.1.2.1	Tibetan
+39	Tibetan_Batang	Himalayish	Tibetan_Batang	24	2.1.2.1	Tibetan
+40	Tibetan_Xiahe	Himalayish	Tibetan_Xiahe	24	2.1.2.1	Tibetan
+41	Tibetan_Khams_Dege	Himalayish	Tibetan_Khams_Dege	24	2.1.2.1	Tibetan
+42	Thakali_Tukche	Himalayish	Thakali_Tukche	23	2.1.4	Tamangish
+43	Gurung_Ghachok	Himalayish	Gurung_Ghachok	23	2.1.4	Tamangish
+44	Tamang_Sahu	Himalayish	Tamang_Sahu	23	2.1.4	Tamangish
+45	Manang_Prakaa	Himalayish	Manang_Prakaa	23	2.1.4	Tamangish
+46	Manang_Gyaru	Himalayish	Manang_Gyaru	23	2.1.4	Tamangish
+47	Limbu	Himalayish	Limbu	31	2.3.1	Eastern Kiranti
+48	Khaling	Himalayish	Khaling	77	2.3.3	Central Kiranti
+49	Hayu	Himalayish	Hayu	30	2.3.4	Western Kiranti
+50	Thulung	Himalayish	Thulung	30	2.3.4	Western Kiranti
+51	Sunwar	Himalayish	Sunwar	30	2.3.4	Western Kiranti
+52	Chepang	Himalayish	Chepang	28	2.4	Kham-Magar-Chepang
+53	Magar	Himalayish	Magar	28	2.4	Kham-Magar-Chepang
+54	Pumi_Qinghua	Qiangic-Rgyalrongic	Pumi_Qinghua	34	3.2	Qiangic
+55	Muya_Minyak	Qiangic-Rgyalrongic	Muya_Minyak	34	3.2	Qiangic
+56	Namuyi	Qiangic-Rgyalrongic	Namuyi	34	3.2	Qiangic
+57	Ersu	Qiangic-Rgyalrongic	Ersu	34	3.2	Qiangic
+58	Xumi	Qiangic-Rgyalrongic	Xumi	34	3.2	Qiangic
+59	Pumi_Taoba	Qiangic-Rgyalrongic	Pumi_Taoba	34	3.2	Qiangic
+60	Lyuzu	Qiangic-Rgyalrongic	Lyuzu	34	3.2	Qiangic
+61	Qiang_Longxi	Qiangic-Rgyalrongic	Qiang_Longxi	34	3.2	Qiangic
+62	Queyu_Yajiang_Zhaba	Qiangic-Rgyalrongic	Queyu_Yajiang_Zhaba	34	3.2	Qiangic
+63	Qiang_Mawo	Qiangic-Rgyalrongic	Qiang_Mawo	34	3.2	Qiangic
+64	Daofu	Qiangic-Rgyalrongic	Daofu	35	3.3	rGyalrongic
+65	Ergong_Danba	Qiangic-Rgyalrongic	Ergong_Danba	35	3.3	rGyalrongic
+66	Caodeng	Qiangic-Rgyalrongic	Caodeng	78	3.3.1	rGyalrong
+67	rGyalrong_Maerkang	Qiangic-Rgyalrongic	rGyalrong_Maerkang	78	3.3.1	rGyalrong
+68	Trung_Dulong	Nungic	Trung_Dulong	38	4	Nungic
+69	Trung_Dulong_Nujiang	Nungic	Trung_Dulong_Nujiang	38	4	Nungic
+70	Anong	Nungic	Anong	38	4	Nungic
+71	Marma	Lolo-Burmese	Marma	44	6.1.1	Burmish
+72	Burmese_Spoken_Rangoon	Lolo-Burmese	Burmese_Spoken_Rangoon	44	6.1.1	Burmish
+73	Achang_Longchuan	Lolo-Burmese	Achang_Longchuan	44	6.1.1	Burmish
+74	Achang_Xiandao	Lolo-Burmese	Achang_Xiandao	44	6.1.1	Burmish
+75	Leqi_Luxi	Lolo-Burmese	Leqi_Luxi	44	6.1.1	Burmish
+76	Achang_Lianghe	Lolo-Burmese	Achang_Lianghe	44	6.1.1	Burmish
+77	Bola_Luxi	Lolo-Burmese	Bola_Luxi	44	6.1.1	Burmish
+78	Langsu_Luxi	Lolo-Burmese	Langsu_Luxi	44	6.1.1	Burmish
+79	Achang_Luxi	Lolo-Burmese	Achang_Luxi	44	6.1.1	Burmish
+80	Atsi_Zaiwa	Lolo-Burmese	Atsi_Zaiwa	44	6.1.1	Burmish
+81	Nusu_Northern	Lolo-Burmese	Nusu_Northern	46	6.1.2.1	Northern Loloish
+82	Yi_Nanjian	Lolo-Burmese	Yi_Nanjian	46	6.1.2.1	Northern Loloish
+83	Nusu_Southern	Lolo-Burmese	Nusu_Southern	46	6.1.2.1	Northern Loloish
+84	Nusu_Central	Lolo-Burmese	Nusu_Central	46	6.1.2.1	Northern Loloish
+85	Yi_Mile	Lolo-Burmese	Yi_Mile	46	6.1.2.1	Northern Loloish
+86	Yi_Dafang	Lolo-Burmese	Yi_Dafang	46	6.1.2.1	Northern Loloish
+87	Yi_Weishan	Lolo-Burmese	Yi_Weishan	46	6.1.2.1	Northern Loloish
+88	Yi_Wuding	Lolo-Burmese	Yi_Wuding	46	6.1.2.1	Northern Loloish
+89	Yi_Mojiang	Lolo-Burmese	Yi_Mojiang	46	6.1.2.1	Northern Loloish
+90	Yi_Sani	Lolo-Burmese	Yi_Sani	47	6.1.2.2	Central Loloish
+91	Lahu_Lancang	Lolo-Burmese	Lahu_Lancang	47	6.1.2.2	Central Loloish
+92	Lisu_Northern	Lolo-Burmese	Lisu_Northern	47	6.1.2.2	Central Loloish
+93	Jinuo_Youle	Lolo-Burmese	Jinuo_Youle	47	6.1.2.2	Central Loloish
+94	Lahu_Yellow	Lolo-Burmese	Lahu_Yellow	47	6.1.2.2	Central Loloish
+95	Lisu_Central	Lolo-Burmese	Lisu_Central	47	6.1.2.2	Central Loloish
+96	Hani_Caiyuan	Lolo-Burmese	Hani_Caiyuan	48	6.1.2.3	Southern Loloish
+97	Hani_Mojiang	Lolo-Burmese	Hani_Mojiang	48	6.1.2.3	Southern Loloish
+98	Hani_Gelanghe	Lolo-Burmese	Hani_Gelanghe	48	6.1.2.3	Southern Loloish
+99	Hani_Dazhai	Lolo-Burmese	Hani_Dazhai	48	6.1.2.3	Southern Loloish
+100	Mpi	Lolo-Burmese	Mpi	48	6.1.2.3	Southern Loloish
+101	Hani_Shuikui	Lolo-Burmese	Hani_Shuikui	48	6.1.2.3	Southern Loloish
+102	Hani_Lüchun	Lolo-Burmese	Hani_Luchun	48	6.1.2.3	Southern Loloish
+103	Naxi_Yongning	Lolo-Burmese	Naxi_Yongning	43	6.2	Naxi
+104	Naxi_Lijiang	Lolo-Burmese	Naxi_Lijiang	43	6.2	Naxi
+105	Karen	Karenic	Karen	50	7	Karenic
+106	Kayan_Pekon	Karenic	Kayan_Pekon	50	7	Karenic
+107	Pa_O	Karenic	Pa_O	50	7	Karenic
+108	Chinese_Old	Sinitic	Chinese_Old	53	9.0.1	Old Chinese
+109	Chinese_Mandarin	Sinitic	Chinese_Mandarin	55	9.0.3	Modern Chinese
