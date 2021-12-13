@@ -1,0 +1,110 @@
+IDX,Name,ISO-639-3,Glottocode,Latitude,Longitude,STEDT Cladecode,STEDT Genus,Latitude,Longitude,Classification-Ethnologue,Group-Ethnologue,Group,Alternative Name,rootmeaning,meaningcount
+1,Bengni,njz,nyis1236,28.41,92.96,1.1.1.1,Western Tani,28.41,92.96,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Tani",Tani,Tani,Bengni_Tani,97,97
+2,Bokar_Lhoba,adi,bori1243,29.06,94.22,1.1.1.1,Western Tani,29.06,94.22,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Tani",Tani,Tani,Bokar_Lhoba_Tani,94,94
+3,Apatani,apt,apat1240,27.19,93.73,1.1.1.1,Western Tani,27.19,93.73,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Tani",Tani,Tani,Apatani_Tani,82,98
+4,Hayu,vay,wayu1241,27.3,86.12,1.1.2,Deng,27.3,86.12,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Western",Kiranti-W,Kiranti,Hayu_Kiranti,48,93
+5,Daofu,ero,horp1239,31.1,101.72,1.1.2,Deng,31.1,101.72,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, rGyalrongic",rGyalrongic,rGyalrongic,Daofu_rGyalrongic,45,91
+6,Tangkhul,nmf,tang1336,25.05,94.36,1.2.1.1,Northern Chin,25.05,94.36,"Sino-Tibetan, Tibeto-Burman, Tangkhulic",Tangkhulic,Tangkhulic,Tangkhul_Tangkhulic,90,96
+7,Tibetan_Xiahe,adx,amdo1237,35.2,102.52,1.2.1.1,Northern Chin,35.2,102.52,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish",Bodish-C,Bodish,Tibetan_Xiahe_Tibetan,47,91
+8,Khaling,klr,khal1275,27.39,87.51,1.2.1.2,Southern Plains Chin,27.39,87.51,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Western",Kiranti-W,Kiranti,Khaling_Kiranti,46,97
+9,Marma,rmz,marm1234,22.76,92.21,1.2.1.2,Southern Plains Chin,22.76,92.21,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Southern",Burmish-S,Burmish,Marma_Burmese,43,95
+10,Naxi_Yongning,nxq,naxi1245,26.7,101.01,1.2.1.2,Southern Plains Chin,26.7,101.01,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Naic",Naic,Naic,Naxi_Yongning_Naic,59,91
+11,Cuona_Menba,twm,tawa1289,27.77,92.18,1.2.1.2,Southern Plains Chin,27.77,92.18,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, East Bodish",Bodish,Bodish,Cuona_Menba_Bodish,42,90
+12,Sak,ckh,chak1270,21.41,92.6,1.3.1,Central Naga (Ao Group),21.41,92.6,"Sino-Tibetan, Tibeto-Burman, Sal, Jingppaw-Asakia, Asakian",Jingppaw-Asakia,Sal,Sak_Sal,41,97
+13,Ao_Mongsen,njo,aona1235,26.27,94.41,1.3.1,Central Naga (Ao Group),26.27,94.41,"Sino-Tibetan, Tibeto-Burman, Central Naga",Naga-C,Naga,Ao_Mongsen_Naga,67,93
+14,Ao_Chungli,njo,aona1235,26.32,94.38,1.3.1,Central Naga (Ao Group),26.32,94.38,"Sino-Tibetan, Tibeto-Burman, Central Naga",Naga-C,Naga,Ao_Chungli_Naga,79,95
+15,Lisu_Northern,lis,lisu1250,26,98,1.3.1,Central Naga (Ao Group),26,98,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish,Lisu_Northern_Ngwi,77,92
+16,Angami_Kohima,njm,anga1288,25.68,93.87,1.3.2,Angami-Pochuri Group,25.68,93.87,"Sino-Tibetan, Tibeto-Burman, Angami-Pochuri",Angami-Pochuri,Naga,Angami_Kohima_Naga,41,93
+17,Sangtam,nsa,sang1321,25.86,94.63,1.3.2,Angami-Pochuri Group,25.86,94.63,"Sino-Tibetan, Tibeto-Burman, Central Naga",Naga-C,Naga,Sangtam_Naga,69,92
+18,Leqi_Luxi,lsi,lash1243,26.1,98.55,1.3.3,Zeme Group,26.1,98.55,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Leqi_Luxi_Burmish,58,90
+19,Zeme,nzm,zeme1240,25.35,93.65,1.3.3,Zeme Group,25.35,93.65,"Sino-Tibetan, Tibeto-Burman, Western Naga",Naga-W,Naga,Zeme_Naga,41,92
+20,rGyalrong_Maerkang,jya,jiar1240,31.9,102.22,1.3.3,Zeme Group,31.9,102.22,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, rGyalrongic",rGyalrongic,rGyalrongic,rGyalrong_Maerkang_rGyalrongic,53,91
+21,Tamang,tdg,west2415,28.02,85.06,1.3.4,Tangkhulic,28.02,85.06,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Bodish, Gurung-Tamang, Tamang",Tamang,TG,Tamang_TG,69,99
+22,Darang_Taraon,mhu,diga1241,28.5,96.88,1.7.1.1,Bodo,28.5,96.88,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Digarish",Digarish,Diagarish,Darang_Taraon_Diagarish,65,99
+23,Bodo,brx,bodo1269,26.73,89.33,1.7.1.1,Bodo,26.73,89.33,"Sino-Tibetan, Tibeto-Burman, Sal, Boro-Garo, Boro-Tiwa, Boro",Boro-Garo,Sal,Bodo_Sal,56,92
+24,Ersu,ers,ersu1241,29.29,102.21,1.7.1.2,Garo,29.29,102.21,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Ersuish",Ersuish,Ersuish,Ersu_Ersuish,62,94
+25,Atong,aot,aton1241,25.35,90.66,1.7.1.3,Koch,25.35,90.66,"Sino-Tibetan, Tibeto-Burman, Sal, Boro-Garo, Koch",Boro-Garo,Sal,Atong_Sal,44,90
+26,Khumi,cnk,khum1248,22.87,92.99,1.7.2.2,Konyak-Chang,22.87,92.99,"Sino-Tibetan, Tibeto-Burman, Kuki-Chin, Peripheral, Southern",KukiChin-S,KukiChin,Khumi_KukiChin,62,95
+27,Pattani,lae,patt1248,32.7,76.6,1.7.2.2,Konyak-Chang,32.7,76.6,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Himalayish, Kinauri",Kinauri,Kinauri,Pattani_Kinauri,48,91
+28,Chang,nbc,chan1313,26.43,94.95,1.7.2.2,Konyak-Chang,26.43,94.95,"Sino-Tibetan, Tibeto-Burman, Sal, Boro-Garo, Northern Naga",Naga-N,Sal,Chang_Sal,61,94
+29,Idu,clk,idum1241,29.45,95.65,1.7.3.1,Jingpho,29.45,95.65,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Digarish",Digarish,Diagarish,Idu_Diagarish,65,96
+30,Rongmei,nbu,rong1266,25.11,94,1.7.3.2,Asakian,25.11,94,"Sino-Tibetan, Tibeto-Burman, Western Naga",Naga-W,Naga,Rongmei_Naga,52,92
+31,Pa_O,blk,paok1235,20.21,97.6,2.1.1,Western Himalayish,20.21,97.6,"Sino-Tibetan, Tibeto-Burman, Karenic, Peripheral",Karenic-P,Karenic,Pa_O_Karenic,51,92
+32,Jinuo_Youle,jiu,youl1235,22.05,101.06,2.1.1,Western Himalayish,22.05,101.06,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish,Jinuo_Youle_Ngwi,71,92
+33,Cuona_Mama,twm,tawa1289,27.87,91.8,2.1.2,Bodic,27.87,91.8,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish",Bodish,Bodish,Cuona_Mama_Bodish,66,94
+34,Trung_Nujiang,duu,drun1238,28.02,98.62,2.1.2,Bodic,28.02,98.62,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Nungish",Nungish,Nungish,Trung_Nujiang_Nungish,56,94
+35,Tibetan_Batang,khg,kham1282,30,99.1,2.1.2.1,Tibetan,30,99.1,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, Central Bodish, Khams",Bodish-C,Bodish,Tibetan_Batang_Tibetan,55,92
+36,Tibetan_Amdo_Blabrang,adx,amdo1237,34.48,100.23,2.1.2.1,Tibetan,34.48,100.23,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, Central Bodish, Amdo",Bodish-C,Bodish,Tibetan_Amdo_Blabrang_Tibetan,47,91
+37,Thulung,tdh,thul1246,27.54,87.61,2.1.2.1,Tibetan,27.54,87.61,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Western",Kiranti-W,Kiranti,Thulung_Kiranti,57,93
+38,Tibetan_Khams,khg,kham1282,31.93,91.71,2.1.2.1,Tibetan,31.93,91.71,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, Central Bodish, Khams",Bodish-C,Bodish,Tibetan_Khams_Tibetan,45,91
+39,Tibetan_Amdo_Zeku,adx,amdo1237,34.52,100.48,2.1.2.1,Tibetan,34.52,100.48,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, Central Bodish, Amdo",Bodish-C,Bodish,Tibetan_Amdo_Zeku_Tibetan,60,94
+40,Tibetan_Lhasa,bod,tibe1272,28.37,90.19,2.1.2.1,Tibetan,28.37,90.19,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, Central Bodish, Central",Bodish-C,Bodish,Tibetan_Lhasa_Tibetan,59,96
+41,Tibetan_Jirel,jul,jire1238,27.69,86.32,2.1.2.1,Tibetan,27.69,86.32,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, Central Bodish, Central, gTsang",Bodish-C,Bodish,Tibetan_Jirel_Tibetan,44,94
+42,Thado,tcz,thad1238,24.1,93.72,2.1.4,Tamangish,24.1,93.72,"Sino-Tibetan, Tibeto-Burman, Kuki-Chin, Peripheral, Northern, Thado",KukiChin-N,KukiChin,Thado_KukiChin,89,90
+43,Garo,grt,garo1247,24,90,2.1.4,Tamangish,24,90,"Sino-Tibetan, Tibeto-Burman, Sal, Boro-Garo",Boro-Garo,Sal,Garo_Sal,45,94
+44,Sunwar,suz,sunw1242,27.52,86.25,2.1.4,Tamangish,27.52,86.25,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Western",Kiranti-W,Kiranti,Sunwar_Kiranti,43,96
+45,Manang_Gyaru,nmm,mana1288,28.46,84.14,2.1.4,Tamangish,28.46,84.14,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Bodish, Gurung-Tamang, Gurungic",Gurungic,TG,Manang_Gyaru_TG,57,92
+46,Magar,mrd/mgp,west2418,27.41,87.06,2.1.4,Tamangish,27.41,87.06,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Central Himalayan, Kham-Magar, Magar",Kham-Magar,Himalayan,Magar_Himalayan,43,93
+47,Liangmei,njn,lian1251,25.16,93.54,2.3.1,Eastern Kiranti,25.16,93.54,"Sino-Tibetan, Tibeto-Burman, Western Naga",Naga-W,Naga,Liangmei_Naga,45,91
+48,Kayan_Pekon,pdu,kaya1315,19.52,97.41,2.3.3,Central Kiranti,19.52,97.41,"Sino-Tibetan, Tibeto-Burman, Karenic, Northern",Karenic-N,Karenic,Kayan_Pekon_Karenic,31,94
+49,Hani_Shuikui,hni,hani1248,23.43,101.74,2.3.4,Western Kiranti,23.43,101.74,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern",Yi-S,Loloish,Hani_Shuikui_Ngwi,67,92
+50,Thakali,ths,thak1245,28.7,83.65,2.3.4,Western Kiranti,28.7,83.65,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Bodish, Gurung-Tamang, Gurungic",Gurungic,TG,Thakali_TG,73,99
+51,Sema_Sumi,nsm,sumi1235,26,94.42,2.3.4,Western Kiranti,26,94.42,"Sino-Tibetan, Tibeto-Burman, Angami-Pochuri",Angami-Pochuri,Naga,Sema_Sumi_Naga,57,94
+52,Chepang,cdm,chep1245,27.72,84.9,2.4,Kham-Magar-Chepang,27.72,84.9,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Central Himalayan, Chepang-Bhujel",Chepang-Bhujel,Himalayan,Chepang_Himalayan,70,100
+53,Lyuzu,ers,lizu1234,27.93,101.28,2.4,Kham-Magar-Chepang,27.93,101.28,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Ersuish",Ersuish,Ersuish,Lyuzu_Ersuish,45,91
+54,Phom,nph,phom1236,26.47,94.75,3.2,Qiangic,26.47,94.75,"Sino-Tibetan, Tibeto-Burman, Sal, Boro-Garo, Northern Naga",Naga-N,Sal,Phom_Sal,58,97
+55,Mpi,mpz,mpii1239,18.17,100.21,3.2,Qiangic,18.17,100.21,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern",Yi-S,Loloish,Mpi_Ngwi,63,90
+56,Muya_Minyak,mvm,muya1239,30.05,101.97,3.2,Qiangic,30.05,101.97,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Qiangic",Qiangic,Qiangic,Muya_Minyak_Qiangic,62,94
+57,Ergong_Danba,ero,horp1239,31.59,105.31,3.2,Qiangic,31.59,105.31,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, rGyalrongic",rGyalrongic,rGyalrongic,Ergong_Danba_rGyalrongic,62,94
+58,Xumi,sxg,shix1238,28.28,100.65,3.2,Qiangic,28.28,100.65,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Naic",Naic,Naic,Xumi_Naic,65,96
+59,Pumi_Qinghua,pmj,sout2729,26.87,99.46,3.2,Qiangic,26.87,99.46,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Qiangic",Qiangic,Qiangic_Pumi,Pumi_Qinghua_Qiangic_Pumi,65,92
+60,Lotha_Naga,njh,loth1237,26.01,94.04,3.2,Qiangic,26.01,94.04,"Sino-Tibetan, Tibeto-Burman, Central Naga",Naga-C,Naga,Lotha_Naga_Naga,90,98
+61,Pumi_Taoba,pmi,nort2723,28.16,100.86,3.2,Qiangic,28.16,100.86,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Qiangic",Qiangic,Qiangic_Pumi,Pumi_Taoba_Qiangic_Pumi,64,92
+62,Qiang_Mawo,cng,nort2722,32.28,103.19,3.2,Qiangic,32.28,103.19,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Qiangic",Qiangic,Qiangic,Qiang_Mawo_Qiangic,69,97
+63,Qiang_Longxi,qxs,nort2722,31.54,103.38,3.2,Qiangic,31.54,103.38,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Qiangic",Qiangic,Qiangic,Qiang_Longxi_Qiangic,48,91
+64,Daai,dao,daai1236,20.73,93.79,3.3,rGyalrongic,20.73,93.79,"Sino-Tibetan, Tibeto-Burman, Kuki-Chin, Peripheral, Southern, Cho-Asho, Cho",KukiChin-S,KukiChin,Daai_KukiChin,40,94
+65,Dimasa,dis,dima1251,25.42,93.18,3.3,rGyalrongic,25.42,93.18,"Sino-Tibetan, Tibeto-Burman, Sal, Boro-Garo, Dimasa-Kokborok",Boro-Garo,Sal,Dimasa_Sal,53,94
+66,Caodeng,jya,jiar1240,31.6,102.23,3.3.1,rGyalrong,31.6,102.23,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, rGyalrongic",rGyalrongic,rGyalrongic,Caodeng_rGyalrongic,46,94
+67,Queyu_Yajiang,qvy,quey1238,30.31,100.81,3.3.1,rGyalrong,30.31,100.81,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Qiangic",Qiangic,Qiangic,Queyu_Yajiang_Qiangic,62,92
+68,Tiddim,ctd,tedi1235,23.61,93.52,4,Nungic,23.61,93.52,"Sino-Tibetan, Tibeto-Burman, Kuki-Chin, Peripheral, Northern, Thado",KukiChin-N,KukiChin,Tiddim_KukiChin,97,92
+69,Trung_Dulong,duu,drun1238,28.01,98.49,4,Nungic,28.01,98.49,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Nungish",Nungish,Nungish,Trung_Dulong_Nungish,59,94
+70,Anong,nun,nung1282,27.29,98.73,4,Nungic,27.29,98.73,"Sino-Tibetan, Tibeto-Burman, Central Tibeto-Burman, Nungish",Nungish,Nungish,Anong_Nungish,70,94
+71,Manang_Prakaa,nmm,mana1288,28.64,84.05,6.1.1,Burmish,28.64,84.05,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Bodish, Gurung-Tamang, Gurungic",Gurungic,TG,Manang_Prakaa_TG,61,97
+72,Burmese_Spoken_Rangoon,mya,nucl1310,16.85,96.18,6.1.1,Burmish,16.85,96.18,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Southern",Burmish-S,Burmish,Burmese_Spoken_Rangoon_Burmese,61,91
+73,Achang_Longchuan,acn,acha1249,24.35,97.74,6.1.1,Burmish,24.35,97.74,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Achang_Longchuan_Burmish,64,96
+74,Achang_Xiandao,acn,acha1249,24.55,97.91,6.1.1,Burmish,24.55,97.91,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Achang_Xiandao_Burmish,64,91
+75,Langsu_Luxi,mhx,maru1249,25.22,100.31,6.1.1,Burmish,25.22,100.31,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Langsu_Luxi_Burmish,53,91
+76,Achang_Lianghe,acn,acha1249,24.81,98.31,6.1.1,Burmish,24.81,98.31,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Achang_Lianghe_Burmish,59,92
+77,Bola_Luxi,bxd,pela1242,24.21,97.92,6.1.1,Burmish,24.21,97.92,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Bola_Luxi_Burmish,54,91
+78,Lahu_Yellow,lhi,lahu1252,21.21,100.97,6.1.1,Burmish,21.21,100.97,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish_Lahu,Lahu_Yellow_Ngwi_Lahu,84,93
+79,Achang_Luxi,acn,acha1249,24.43,98.58,6.1.1,Burmish,24.43,98.58,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Achang_Luxi_Burmish,61,92
+80,Atsi_Zaiwa,atb,zaiw1241,24.17,98.36,6.1.1,Burmish,24.17,98.36,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Burmish, Northern",Burmish-N,Burmish,Atsi_Zaiwa_Burmish,76,97
+81,Nusu_Central,nuf,nusu1239,26.53,98.9,6.1.2.1,Northern Loloish,26.53,98.9,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Nusu,Nusu_Central_Nusu,66,91
+82,Yi_Nanjian,ywt,xish1235,25.04,100.52,6.1.2.1,Northern Loloish,25.04,100.52,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish,Yi_Nanjian_Ngwi,68,93
+83,Nusu_Northern,nuf,nusu1239,26.62,98.9,6.1.2.1,Northern Loloish,26.62,98.9,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Nusu,Nusu_Northern_Nusu,62,92
+84,Ngmuun,mwq,munc1235,20.29,94.39,6.1.2.1,Northern Loloish,20.29,94.39,"Sino-Tibetan, Tibeto-Burman, Kuki-Chin, Peripheral, Southern, Cho-Asho, Cho",KukiChin-S,KukiChin,Ngmuun_KukiChin,38,94
+85,Yi_Mile,yix,axiy1235,24.41,103.43,6.1.2.1,Northern Loloish,24.41,103.43,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southeastern",Yi-SE,Loloish,Yi_Mile_Ngwi,53,91
+86,Yi_Dafang,yig,wusa1235,25.77,102.37,6.1.2.1,Northern Loloish,25.77,102.37,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Northern",Yi-N,Loloish,Yi_Dafang_Ngwi,66,92
+87,Yi_Weishan,ywt,xish1235,25.47321569,100.26774524,6.1.2.1,Northern Loloish,25.47321569,100.26774524,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish,Yi_Weishan_Ngwi,54,91
+88,Yi_Wuding,ywq,wudi1238,25.48,102.48,6.1.2.1,Northern Loloish,25.48,102.48,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Northern",Yi-N,Loloish,Yi_Wuding_Ngwi,51,91
+89,Yi_Mojiang,nsd,sout2723,23.06,101.41,6.1.2.1,Northern Loloish,23.06,101.41,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southeastern",Yi-SE,Loloish,Yi_Mojiang_Ngwi,56,91
+90,Yi_Sani,ysn,sani1269,24.28,103.76,6.1.2.2,Central Loloish,24.28,103.76,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish,Yi_Sani_Ngwi,56,91
+91,Konyak,nbe,kony1248,26.68,95.06,6.1.2.2,Central Loloish,26.68,95.06,"Sino-Tibetan, Tibeto-Burman, Sal, Boro-Garo, Northern Naga",Naga-N,Sal,Konyak_Sal,50,92
+92,Lisu_Central,lis,lisu1250,24.69,97.93,6.1.2.2,Central Loloish,24.69,97.93,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish,Lisu_Central_Ngwi,66,97
+93,Jingpho,kac,kach1280,25.46,97.33,6.1.2.2,Central Loloish,25.46,97.33,"Sino-Tibetan, Tibeto-Burman, Sal, Jingppaw-Asakia, Jingphaw",Jingppaw-Asakia,Sal,Jingpho_Sal,112,99
+94,Lahu_Lancang,lhu,lahu1253,22.53,99.91,6.1.2.2,Central Loloish,22.53,99.91,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Loloish_Lahu,Lahu_Lancang_Ngwi_Lahu,74,91
+95,Limbu,lif,limb1266,27.27,87.89,6.1.2.2,Central Loloish,27.27,87.89,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Eastern",Kiranti-E,Kiranti,Limbu_Kiranti,70,90
+96,Gurung_Ghachok,gvr,guru1261,27.42,86.29,6.1.2.3,Southern Loloish,27.42,86.29,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Bodish, Gurung-Tamang, Gurungic",Gurungic,TG,Gurung_Ghachok_TG,71,99
+97,Hani_Luchun,hni,hani1248,22.99,102.4,6.1.2.3,Southern Loloish,22.99,102.4,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern",Yi-S,Loloish,Hani_Luchun_Ngwi,74,96
+98,Hani_Dazhai,hni,hani1248,22.99,102.38,6.1.2.3,Southern Loloish,22.99,102.38,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern",Yi-S,Loloish,Hani_Dazhai_Ngwi,68,92
+99,Hani_Caiyuan,hni,hani1248,23.26,101.64,6.1.2.3,Southern Loloish,23.26,101.64,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern",Yi-S,Loloish,Hani_Caiyuan_Ngwi,66,92
+100,Matu,hlt,ngal1291,23.31,92.83,6.1.2.3,Southern Loloish,23.31,92.83,"Sino-Tibetan, Tibeto-Burman, Kuki-Chin, Peripheral, Southern, Cho-Asho, Cho",KukiChin-S,KukiChin,Matu_KukiChin,38,94
+101,Hani_Mojiang,how,honi1244,23.21,101.89,6.1.2.3,Southern Loloish,23.21,101.89,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern",Yi-S,Loloish,Hani_Mojiang_Ngwi,58,91
+102,Hani_Gelanghe,hni,hani1248,21.86,100.57,6.1.2.3,Southern Loloish,21.86,100.57,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern",Yi-S,Loloish,Hani_Gelanghe_Ngwi,70,90
+103,Naxi_Lijiang,nxq,naxi1245,26.88,100.23,6.2,Naxi,26.88,100.23,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Naic",Naic,Naic,Naxi_Lijiang_Naic,58,91
+104,Namuyi,nmy,namu1246,28.59,101.9,6.2,Naxi,28.59,101.9,"Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Naic",Naic,Naic,Namuyi_Naic,67,96
+105,Kanauri,kfk,kinn1249,31.37,78.31,7,Karenic,31.37,78.31,"Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Himalayish, Kinauri",Kinauri,Kinauri,Kanauri_Kinauri,49,93
+106,Karen,ksw,sgaw1245,17.99,97.71,7,Karenic,17.99,97.71,"Sino-Tibetan, Tibeto-Burman, Karenic, Southern",Karenic-S,Karenic,Karen_Karenic,36,90
+107,Nusu_Southern,nuf,nusu1239,26.42,98.08,7,Karenic,26.42,98.08,"Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central",Yi-C,Nusu,Nusu_Southern_Nusu,58,91
+108,Chinese_Old,och,oldc1244,36.12,114.32,9.0.1,Old Chinese,36.12,114.32,"Sino-Tibetan, Chinese",Chinese,Chinese,Chinese_Old_Chinese,65,100
+109,Chinese_Mandarin,cmn,mand1415,40.02,116.23,9.0.3,Modern Chinese,40.02,116.23,"Sino-Tibetan, Chinese",Chinese,Chinese,Chinese_Mandarin_Chinese,51,99
