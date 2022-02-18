@@ -22,7 +22,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>+++</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zhang, Menghan and Shi Yan and Wuyun Pan and Li Jin (2019): Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic. Nature. https://doi.org/10.1038/s41586-019-1153-z</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

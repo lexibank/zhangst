@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "+++",
+    "dc:bibliographicCitation": "Zhang, Menghan and Shi Yan and Wuyun Pan and Li Jin (2019): Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic. Nature. https://doi.org/10.1038/s41586-019-1153-z",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Swadesh-1955-100"
@@ -11,7 +11,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF Dataset derived from Zhang et al.'s \"Sino-Tibetan Origin in Northern China\" from 2019",
+    "dcat:accessURL": "https://github.com/lexibank/zhangst",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "https://github.com/lexibank/zhangst",
+            "rdf:type": "prov:Entity",
+            "dc:created": "e01bfdf",
+            "dc:title": "Repository"
+        },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
@@ -38,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
